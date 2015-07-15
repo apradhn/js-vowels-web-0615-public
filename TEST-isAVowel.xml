@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="7" errors="0" failures="0" time="0.01" timestamp="2015-07-15T16:07:52">
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;a&amp;quot; is a vowel" time="0.003">
+		</testcase>
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;e&amp;quot; is a vowel" time="0.001">
+		</testcase>
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;i&amp;quot; is a vowel" time="0.001">
+		</testcase>
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;o&amp;quot; is a vowel" time="0">
+		</testcase>
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;u&amp;quot; is a vowel" time="0">
+		</testcase>
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;b&amp;quot; is not a vowel" time="0">
+		</testcase>
+		<testcase classname="isAVowel" name="Your first test knows that &amp;quot;c&amp;quot; is not a vowel" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
